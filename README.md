@@ -3,8 +3,12 @@
 “Sales Case Study.csv”, 
 which indicates the daily trading information for a large retail store, aggregated for the 
 day. The data is only for one of the products sold at this store.
+#TOOLS
+
+Snowflake sql
 
 #VARIABLE DESCRIPTION
+
 Each record contains the: 
 
 • Date = The day on which the sales occurred 
